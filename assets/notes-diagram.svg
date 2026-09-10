@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 800" role="img" aria-labelledby="title desc">
+  <title id="title">Atelier Lumen fragrance notes pyramid</title>
+  <desc id="desc">A three-tier fragrance pyramid with placeholder top, heart, and base note names.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#160B09"/>
+      <stop offset="1" stop-color="#32130F"/>
+    </linearGradient>
+    <linearGradient id="tier" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5A2720" stop-opacity=".95"/>
+      <stop offset="1" stop-color="#2B0F0F" stop-opacity=".98"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="800" rx="24" fill="url(#bg)"/>
+  <g stroke="#B08D57" stroke-width="2" fill="url(#tier)">
+    <path d="M160 680 L800 90 L1440 680 Z" opacity=".16"/>
+    <path d="M566 285 L800 90 L1034 285 Z"/>
+    <path d="M390 470 L566 285 L1034 285 L1210 470 Z"/>
+    <path d="M160 680 L390 470 L1210 470 L1440 680 Z"/>
+  </g>
+  <g fill="#F3E9DE" font-family="'Tenor Sans', Arial, sans-serif" text-anchor="middle">
+    <text x="800" y="178" font-size="34" letter-spacing="5">TOP NOTES</text>
+    <text x="800" y="225" font-size="20" fill="#D3BE9D" letter-spacing="3">PLACEHOLDER NOTE 01 · NOTE 02 · NOTE 03</text>
+    <text x="800" y="370" font-size="38" letter-spacing="5">HEART NOTES</text>
+    <text x="800" y="420" font-size="20" fill="#D3BE9D" letter-spacing="3">PLACEHOLDER NOTE 04 · NOTE 05 · NOTE 06</text>
+    <text x="800" y="575" font-size="42" letter-spacing="5">BASE NOTES</text>
+    <text x="800" y="630" font-size="20" fill="#D3BE9D" letter-spacing="3">PLACEHOLDER NOTE 07 · NOTE 08 · NOTE 09</text>
+  </g>
+  <g fill="#B08D57" font-family="'Tenor Sans', Arial, sans-serif" font-size="17" letter-spacing="3">
+    <text x="98" y="110">CHARACTER &amp; COMPOSITION</text>
+    <text x="98" y="142" fill="#8A7A6E">NOTE NAMES TO BE CONFIRMED</text>
+  </g>
+</svg>

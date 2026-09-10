@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" role="img" aria-labelledby="title desc">
+  <title id="title">Atelier Lumen</title>
+  <desc id="desc">Minimal luxury wordmark for Atelier Lumen.</desc>
+  <rect width="800" height="200" fill="none"/>
+  <text x="400" y="128" text-anchor="middle" fill="#241B15"
+        font-family="'Tenor Sans', Arial, sans-serif" font-size="78" letter-spacing="1.5">Atelier Lumen</text>
+</svg>
